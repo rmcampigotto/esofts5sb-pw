@@ -156,6 +156,11 @@ nav a:hover {
   width: 150px;
 }
 
+#evolucao img:hover{
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.1);
+}
+
 #evolucao figcaption {
   font-weight: 600;
   font-size: 20px;
